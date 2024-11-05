@@ -1,9 +1,9 @@
 {
-  "name": "Old Twitter Layout (2024)",
+  "name": "lynX",
   "description": "__MSG_ext_description__",
-  "version": "1.8.9.2",
+  "version": "0.0.1",
   "manifest_version": 3,
-  "homepage_url": "https://github.com/dimdenGD/OldTwitter",
+  "homepage_url": "https://github.com/RMOnft/lynX",
   "background": {
     "service_worker": "scripts/background.js"
   },

@@ -1,5 +1,5 @@
 {
-    "ext_description": { "message": "A new extension that returns old Twitter's look." },
+    "ext_description": { "message": "A graph base UI for X" },
     "timeline": { "message": "Timeline" },
     "loading": { "message": "Loading" },
     "tweets": { "message": "Tweets" },
